@@ -8,18 +8,18 @@ Starting January 2025, I have decided to solve and document one DSA question dai
 
 ## Goals
 
-Build a strong foundation in DSA concepts.
-Maintain consistency by solving problems daily.
-Share my learning journey to help others in the community.
+- Build a strong foundation in DSA concepts.
+- Maintain consistency by solving problems daily.
+- Share my learning journey to help others in the community.
 
 ## Platforms
 
 The questions are sourced from popular competitive programming and learning platforms, including but not limited to:
 
-LeetCode
-HackerRank
-Codeforces
-GeeksforGeeks
+- LeetCode
+- HackerRank
+- Codeforces
+- GeeksforGeeks
 
 ## Feedback and Contributions
 
