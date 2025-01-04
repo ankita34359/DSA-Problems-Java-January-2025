@@ -63,3 +63,4 @@ There are three lines of output:
 ---
 
 ![Screenshot](img1.png)
+02_Java Stdin and Stdout II/img 1.png
