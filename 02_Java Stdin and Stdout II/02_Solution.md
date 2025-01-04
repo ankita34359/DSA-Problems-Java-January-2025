@@ -62,4 +62,4 @@ There are three lines of output:
 
 ---
 
-![Screenshot](img 1.png)
+![Screenshot](img1.png)
