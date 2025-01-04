@@ -14,8 +14,6 @@ There are  lines of input, and each line contains a single integer.
 
 ## Sample Output
 
-42
-
-100
-
-125
+- 42
+- 100
+- 125
