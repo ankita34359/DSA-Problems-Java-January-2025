@@ -9,7 +9,6 @@ There are  lines of input, and each line contains a single integer.
 ## Sample Input
 
 42
-
 100
 
 125
