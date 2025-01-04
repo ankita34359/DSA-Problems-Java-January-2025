@@ -18,6 +18,8 @@ There are 3 lines of input, and each line contains a single integer.
 - 100
 - 125
 
+---
+
 ```java
 import java.util.*;
 
@@ -37,3 +39,6 @@ public class Solution {
 }
 
 ```
+---
+
+![Screenshot](i1)
