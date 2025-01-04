@@ -17,3 +17,23 @@ There are 3 lines of input, and each line contains a single integer.
 - 42
 - 100
 - 125
+
+```java
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        int b = scan.nextInt();
+        int c = scan.nextInt();
+        scan.close();
+
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+    }
+}
+
+```
