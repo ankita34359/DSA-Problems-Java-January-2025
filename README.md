@@ -26,7 +26,7 @@ The questions are sourced from popular competitive programming and learning plat
 If you find any errors or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions and feedback are always welcome!
 
 ## Contact
-If you have any questions, suggestions, or would like to discuss JavaScript concepts, feel free to reach out:
+If you have any questions, suggestions, or would like to discuss any DSA concepts, feel free to reach out:
 
 - GitHub: https://github.com/ankita34359
 - Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
@@ -35,8 +35,6 @@ If you have any questions, suggestions, or would like to discuss JavaScript conc
 
 This repository is licensed under the MIT License. Feel free to use the code and resources, but don’t forget to give credit!
 
+--
 
 Feel free to star ⭐ this repository if you find it helpful, and join me on this exciting learning journey!
-
-
-
