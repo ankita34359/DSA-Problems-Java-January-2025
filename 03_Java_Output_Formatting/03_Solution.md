@@ -57,4 +57,5 @@ public class Solution {
 
 ```
 
+# Output Screenshot
 ![Screenshot](i1.png)
