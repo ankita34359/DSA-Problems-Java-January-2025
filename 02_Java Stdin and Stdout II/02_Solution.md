@@ -64,8 +64,6 @@ There are three lines of output:
 
 ---
 
----
-
 # Output Screenshot
 
 ![Screenshot](img1.png)
