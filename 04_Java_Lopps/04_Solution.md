@@ -35,3 +35,7 @@ public class Solution {
 
 
 ```
+
+# Output Screenshot
+
+![Screenshot](i2.png)
