@@ -20,6 +20,7 @@ There are 3 lines of input, and each line contains a single integer.
 
 ---
 
+
 # Solution 
 
 ```java
@@ -41,8 +42,10 @@ public class Solution {
 }
 
 ```
+
 ---
 
 # Output Screenshot
+
 
 ![Screenshot](i1.png)
