@@ -34,3 +34,7 @@ class Solution{
 }
 
 ```
+
+# Ouput Screenshot
+
+![Screenshot](i3.png)
